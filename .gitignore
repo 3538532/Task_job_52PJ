@@ -1,1 +1,5 @@
 .idea
+.venv/
+.env
+.gitignore
+*.pyc
